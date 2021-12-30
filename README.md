@@ -1,4 +1,3 @@
-TinDog Starting Files
 # Tindog
 ![image](https://user-images.githubusercontent.com/43823429/147785591-b18922d5-82f4-4624-9fb7-73156a9d608d.png)
 ![image](https://user-images.githubusercontent.com/43823429/147785666-a4cfe0b6-0357-4c81-a72b-70cd35dd9235.png)
